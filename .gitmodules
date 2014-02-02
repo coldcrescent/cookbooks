@@ -1,3 +1,6 @@
 [submodule "coldcrescent-infrastructure-redmine"]
 	path = coldcrescent-infrastructure-redmine
 	url = git@github.com:coldcrescent/coldcrescent-infrastructure-redmine.git
+[submodule "coldcrescent-clients-coldrescent.github.io"]
+	path = coldcrescent-clients-coldrescent.github.io
+	url = git@github.com:coldcrescent/coldcrescent-clients-coldrescent.github.io.git
